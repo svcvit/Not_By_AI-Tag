@@ -54,7 +54,7 @@ How to Use
 1.  **Clone the repository:**
     
     ```bash
-    git clone https://github.com/yourusername/Not_By_AI-Tag.git
+    git clone https://github.com/svcvit/Not_By_AI-Tag.git
     ```
     
 2.  **Navigate to the desired language and category folder:**
